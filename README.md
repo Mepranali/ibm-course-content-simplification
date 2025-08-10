@@ -38,7 +38,7 @@ The goal of this agent is to:
    - **Framework:** LangGraph
    - **Architecture:** ReAct
    - **Model:** Mistral Large
-4. Wrote custom **Instructions**:
+4. Wrote custom **Instructions**
 5. Tested with multiple complex paragraphs.
 6. Deployed the Agent in **IBM Deployment Space**.
 
